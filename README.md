@@ -9,8 +9,11 @@ Dataset Origin: This dataset contains the records of 12 Compte of client account
 **Attributes**:
 
 Date:The date and time of each transaction.
+
 Id Compte: Unique identifier for client accounts.
+
 Amount Transaction: The amount involved in each transaction
+
 Category Transaction: Categorization of each transaction (e.g., Food & Drink, Bank Transfers).
 
 
